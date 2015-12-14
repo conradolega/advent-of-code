@@ -1,6 +1,6 @@
 advent-of-code
 ==============
 
-Solutions to [http://adventofcode.com/](Advent of Code) exercises.
+Solutions to [Advent of Code](http://adventofcode.com/) exercises.
 
 Merry Christmas!
